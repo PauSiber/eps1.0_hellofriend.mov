@@ -14,7 +14,7 @@ Yaklaşık bir yıldır faaliyet gösteren arkadaş topluluğumuz bu seneden iti
 :school: Mühendislik Fakültesi 3.KAT 353' or '4'='4 💻 :trollface:
 
 
-# :link: Register
+# :link: [Register](http://pausiber.xyz/register)
 
 Next Event :zap:
 --------------------------------
