@@ -31,7 +31,9 @@ Next Event :zap:
 
 **Linux** 'Hello world' ( Yuşa )
 
-:closed_lock_with_key: **Güvenli** kod :trollface:  nedir? **Nasıl** geliştirilir? ( Koray - Zehra - Recep - İbiş )
+:closed_lock_with_key: **Güvenli** kod :trollface:  nedir? **Nasıl** geliştirilir? ( Koray - Recep - İbiş )
+
+**Network** ( Zehra - Kevser )
 
 :zap: **Örnek** bir **android** istismarı ( Barış )
 
