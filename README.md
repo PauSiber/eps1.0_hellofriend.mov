@@ -21,16 +21,18 @@ Next Event :zap:
 
 ### Konuşmalar:
 
-**Elin oğlu yapar**! :no_entry: Biz neden yapamıyoruz? :no_entry:
+:squirrel: Git :link: Github :octocat: ( Erdem )
 
-:squirrel: Git :link: Github :octocat:
+**Elin oğlu yapar**! :no_entry: Biz neden yapamıyoruz? :no_entry: ( Çağatay )
 
-:zap: **Örnek** bir **android** istismarı
+**Unity** 'Hello world' ( Mahmut - Enes )
 
-:closed_lock_with_key: **Güvenli** kod :trollface:  nedir? **Nasıl** geliştirilir?
+**Linux** & **Windows** karşılaştırılması ( Koray )
 
-# Workshop
-  -  Html js ve css kullanarak bir site oluşturulması ( Ön bilgi )
-  - Herhangi bir yazılım dili ile sitenin dinamik olarak anlamlandırılması ( Kodlama )
-  - Hazırlanan sitenin bilinen güvenlik zaafiyetleri ile beraber istismarı ( Hack ) :trollface:
-  - Güvenli kodlar ile tekrar yazılması ( Override )
+**Linux** 'Hello world' ( Yuşa )
+
+:closed_lock_with_key: **Güvenli** kod :trollface:  nedir? **Nasıl** geliştirilir? ( Koray - Zehra - Recep - İbiş )
+
+:zap: **Örnek** bir **android** istismarı ( Barış )
+
+: **Goygoy** :
